@@ -1,6 +1,6 @@
 <image src="https://media.tenor.com/xMaI388huuAAAAAM/johnny-cage-mk1.gif" alt="greetings gif">
   
-  [![My Skills](https://skillicons.dev/icons?i=js,html,linkedin,gmail)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=linkedin,gmail)](https://skillicons.dev)
   
 - 👋 Hi, I’m @CliffBooth07/Pawan
 - 👀 I’m interested in Game Development
