@@ -1,4 +1,4 @@
-<image src="https://media.tenor.com/xMaI388huuAAAAAM/johnny-cage-mk1.gif">
+<image src="https://media.tenor.com/xMaI388huuAAAAAM/johnny-cage-mk1.gif" width=100%>
 - 👋 Hi, I’m @CliffBooth07/Pawan
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning JavaScript
