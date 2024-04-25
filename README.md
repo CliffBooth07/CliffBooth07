@@ -4,7 +4,7 @@
   
 - 👋 Hi, I’m @CliffBooth07/Pawan
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on and learn about Unreal Engine projects
 - 📫 How to reach me ->pawantony007@gmail.com
 
