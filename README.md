@@ -3,9 +3,9 @@
   [![My Skills](https://skillicons.dev/icons?i=linkedin,gmail)](https://skillicons.dev)
   
 - 👋 Hi, I’m @CliffBooth07/Pawan
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on and learn about Unreal Engine projects
+- 👀 I’m interested in Data Science, AI/ML
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on and learn about ML/AI projects
 - 📫 How to reach me ->pawantony007@gmail.com
 
 A Quote:
