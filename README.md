@@ -14,7 +14,7 @@ A Quote:
 
 :mechanical_arm: My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,bootstrap,eclipse,nodejs,selenium)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,bootstrap,git,py,selenium,postman,pycharm,sqlite,flask&perline=6)](https://skillicons.dev)
 
 My Stats:
 
